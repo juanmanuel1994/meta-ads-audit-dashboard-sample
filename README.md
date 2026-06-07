@@ -1,6 +1,6 @@
-# Meta Ads Intelligence Report — Premium
+# Meta Ads Intelligence Report
 
-An interactive, high-end, and visually stunning web-based dashboard designed for premium Meta Ads Audits and Competitor Intelligence. This fully responsive HTML/CSS/JS single-page report delivers deep marketing insights with a dark-mode cyberpunk aesthetic, dynamic components, and clean UI/UX.
+An interactive, high-end, and visually stunning web-based dashboard designed for Meta Ads Audits and Competitor Intelligence. This fully responsive HTML/CSS/JS single-page report delivers deep marketing insights with a dark-mode cyberpunk aesthetic, dynamic components, and clean UI/UX.
 
 ## Features & Architecture
 
